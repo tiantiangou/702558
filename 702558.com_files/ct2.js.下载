@@ -1,6 +1,6 @@
 var tiaozhuans = document.getElementById('tiaozhuans');
 				tiaozhuans.onclick = function(){
-					location.href = 'https://sj5577.com'
+					location.href = 'https://140350.com'
 				}
 !
 function(t) {
